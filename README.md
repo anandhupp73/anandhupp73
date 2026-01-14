@@ -12,8 +12,8 @@
 
 ### 💫 About Me
 <p align="center">
-<b>Full Stack Python Developer</b> with a passion for building scalable web applications. <br/>
-I specialize in the <b>Django-React ecosystem</b> and enjoy turning complex problems into elegant code.
+<b>A passionate Full Stack Python Developer focused on building scalable web applications and exploring modern technologies<br/>
+I enjoy turning ideas into real-world products and continuously improving my skills.
 </p>
 
 ---
@@ -28,9 +28,10 @@ I specialize in the <b>Django-React ecosystem</b> and enjoy turning complex prob
 
 | **Frontend** | **Backend** | **Databases** | **Tools** |
 | :--- | :--- | :--- | :--- |
-| React.js | Python / Django | PostgreSQL | Git / GitHub |
-| Tailwind CSS | Flask | MongoDB | Docker / Postman |
-| JavaScript | Node.js | MySQL / SQLite | RESTful APIs |
+| HTML / CSS | Python | PostgreSQL | Git |
+| React.js | Django | MongoDBL | GitHub |
+| Tailwind CSS | Flask | MySQL | Postman |
+| JavaScript | Node.js | SQLite | RESTful APIs |
 
 </div>
 
