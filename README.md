@@ -5,24 +5,23 @@
 <p>A passionate Full Stack Python Developer focused on building scalable web applications and exploring modern technologies.
 I enjoy turning ideas into real-world products and continuously improving my skills.</p>
 --
-
 🛠️ Tech Stack
 
 🌐 Frontend
 
-  HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+     HTML5, CSS3, JavaScript, React.js, Tailwind CSS
 
 ⚙️ Backend
 
-  Python, Django, Flask, Node.js
+     Python, Django, Flask, Node.js
 
 🗄️ Databases
 
-  SQLite, MySQL, MongoDB, PostgreSQL
+     SQLite, MySQL, MongoDB, PostgreSQL
 
 🧰 Tools & Skills
 
-  Git, REST APIs, JWT, Postman, VS Code
+     Git, REST APIs, JWT, Postman, VS Code
 
 🌐 Connect With Me
 --
